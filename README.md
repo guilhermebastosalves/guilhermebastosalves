@@ -12,12 +12,12 @@
 - 🛢 &nbsp; MySQL | PostgreSQL | Xampp
 - 🔧 &nbsp; Visual Studio Code | Git
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebastosalves&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Guilherme's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebastosalves&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Guilherme's Github Stats">
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebastosalves&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/guilhermebastosalves/github-readme-stats)
+![guilhermebastosalves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebastosalves&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 📞 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/__guilhermebastos/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
